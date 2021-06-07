@@ -702,4 +702,4 @@ async def on_message(message):
     else:
         pass
 
-bot.run("ODQ1NTgwNjM2OTc4MTUxNDQ0.YKjCVQ.Nfh0_P9_dz-F5EBNCzkKCYFkPkM")
+bot.run("DISCORDBOTTOKEN")
